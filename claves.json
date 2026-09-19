@@ -1,11 +1,11 @@
 {
-  "español": {
-    "nombre": "Español",
-    "url": "https://iptv-org.github.io/iptv/languages/spa.m3u",
+  "peru": {
+    "nombre": "tv peru 2",
+    "url": "https://raw.githubusercontent.com/iptv-org/iptv/master/streams/pe.m3u",
     "bg": "bg-global",
     "emoji": "🍿"
   },
-  "peru": {
+  "peru2": {
     "nombre": "tv peru",
     "url": "https://raw.githubusercontent.com/dtx2021/peru/main/peru",
     "bg": "bg-peru",
