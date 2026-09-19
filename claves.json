@@ -1,7 +1,14 @@
 {
-  "mxltv": { 
-     "nombre": "MXL TV", 
-     "url": "https://gist.githubusercontent.com/...", 
-     "emoji": "🍿" 
+  "español": {
+    "nombre": "Español,
+    "url": "https://iptv-org.github.io/iptv/languages/spa.m3u",
+    "bg": "bg-global",
+    "emoji": "🍿"
+  },
+  "deportes": {
+    "nombre": "Solo Deportes",
+    "url": "AQUÍ_VA_OTRO_LINK_RAW_M3U",
+    "bg": "bg-peru",
+    "emoji": "⚽"
   }
 }
