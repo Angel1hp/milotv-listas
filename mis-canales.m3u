@@ -5,3 +5,7 @@ http://link-del-canal-n.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/logo2.png" group-title="Deportes", ESPN
 http://link-de-espn.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/logo2.png" group-title="Deportes", wwe
+http://link-de-espn.m3u8
+
