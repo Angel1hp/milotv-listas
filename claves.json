@@ -11,4 +11,11 @@
     "bg": "bg-peru",
     "emoji": "P"
   }
+  "wwe": {
+    "nombre": "wwe",
+    "url": "http://portal.entertainmentxl.com:8080/get.php?username=bfsilva&password=MsBTxXqp1B&type=m3u_plus",
+    "bg": "bg-peru",
+    "emoji": "P"
+  }
+  
 }
