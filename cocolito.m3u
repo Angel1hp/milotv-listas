@@ -1,4 +1,4 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/logo2.png" group-title="Deportes", TNT
+#EXTINF:-1 tvg-logo="tnt-us" group-title="Deportes", TNT
 http://portal.entertainmentxl.com:8080/bfsilva/MsBTxXqp1B/549
