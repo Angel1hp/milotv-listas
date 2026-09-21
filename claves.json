@@ -16,6 +16,12 @@
     "url": "http://portal.entertainmentxl.com:8080/get.php?username=bfsilva&password=MsBTxXqp1B&type=m3u_plus",
     "bg": "bg-wwe",
     "emoji": "w"
+  },
+  "internacional": {
+    "nombre": "Internacional",
+    "url": "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlist.m3u8.",
+    "bg": "bg-wwe",
+    "emoji": "I"
   }
 
   
